@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrzysiuGetReckt
 - 👀 I’m interested in QA testing
-- 🌱 I’m currently learning WebdriverIO
+- 🌱 I’m currently learning the documentation of js, jenkins, docker and other tools for QA Automation testing
 - 📫 How to reach me JakubKojmOfficial@gmail.com
 
 <!---
